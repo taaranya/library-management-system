@@ -1,0 +1,42 @@
+------ LIBRARY MANAGEMENT SYSTEM ------
+1. Add Book
+2. Display Books
+3. Issue Book
+4. Return Book
+5. Delete Book
+0. Exit
+--------------------------------------
+Enter your choice: 1
+Enter Book ID: 101
+Enter Book Title: CProgramming
+Enter Author Name: Dennis
+Enter Quantity: 5
+Book added successfully!
+
+Enter your choice: 1
+Enter Book ID: 102
+Enter Book Title: DataStructures
+Enter Author Name: Mark
+Enter Quantity: 3
+Book added successfully!
+
+Enter your choice: 2
+ID   Title        Author       Quantity
+----------------------------------------
+101  CProgramming Dennis      5
+102  DataStructures Mark      3
+
+Enter your choice: 3
+Enter Book ID to Issue: 101
+Book issued successfully!
+
+Enter your choice: 4
+Enter Book ID to Return: 101
+Book returned successfully!
+
+Enter your choice: 5
+Enter Book ID to Delete: 102
+Book deleted successfully!
+
+Enter your choice: 0
+Exiting program...
